@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+# Build output
+build/
+.next/
+
+# Dependencies
+node_modules/
+
+# Local configs
+config.local.js
+
+# Un-ignore specific file
+!build/important_output.txt
