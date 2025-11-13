@@ -3,7 +3,7 @@ const nextConfig = {
   reactStrictMode: true,
   basePath: "/test4",
   assetPrefix: "/test4",
-  trailingSlash: true,
+  output: "standalone",
 };
 
 module.exports = nextConfig;
